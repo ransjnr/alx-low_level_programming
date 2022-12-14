@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - block to be executed
  * Description: 5 below 1024
